@@ -1,0 +1,44 @@
+﻿@model TextEditor.Models.Doc
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Hidden field for Id -->
+            <input type="hidden" asp-for="Id" />
+
+            <!-- Title Field -->
+            <div class="form-group">
+                <label asp-for="Title" class="form-label">Document Title</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <!-- Content Field -->
+            <div class="form-group">
+                <label asp-for="Content" class="form-label">Document Content</label>
+                <textarea id="tiny" style="width: 100%; height: 50vh;" asp-for="Content" class="form-control"></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+
+            <!-- Hidden field for UserId -->
+            <input type="hidden" asp-for="UserId" />
+
+            <!-- Submit Button -->
+            <div class="form-group mt-3">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a class="btn btn-info ms-2" asp-action="Index">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

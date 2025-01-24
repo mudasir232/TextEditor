@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TextEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\docs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\docs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\docs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\views\\docs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\data\\migrations\\20241123095308_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\data\\migrations\\20241123095308_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|d:\\texteditor\\texteditor\\data\\migrations\\20241123172742_updatedocmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7F3F42-0CE9-4BDF-8914-9FEDBE5E8FEB}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\data\\migrations\\20241123172742_updatedocmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TextEditor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:11:25.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Index.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T17:10:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T11:33:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocsController.cs",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Controllers\\DocsController.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Controllers\\DocsController.cs",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Controllers\\DocsController.cs",
+              "RelativeToolTip": "TextEditor\\Controllers\\DocsController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:58:11.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Program.cs",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeToolTip": "TextEditor\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:37:43.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241123172742_UpdateDocModel.cs",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Data\\Migrations\\20241123172742_UpdateDocModel.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Data\\Migrations\\20241123172742_UpdateDocModel.cs",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Data\\Migrations\\20241123172742_UpdateDocModel.cs",
+              "RelativeToolTip": "TextEditor\\Data\\Migrations\\20241123172742_UpdateDocModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:27:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doc.cs",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Models\\Doc.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Models\\Doc.cs",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Models\\Doc.cs",
+              "RelativeToolTip": "TextEditor\\Models\\Doc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:27:27.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Edit.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Edit.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T11:52:33.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Delete.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Delete.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T17:11:43.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T17:12:05.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T17:11:10.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T17:11:07.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Create.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Create.cshtml",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Views\\Docs\\Create.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T11:07:21.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241123095308_initial.cs",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Data\\Migrations\\20241123095308_initial.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Data\\Migrations\\20241123095308_initial.cs",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Data\\Migrations\\20241123095308_initial.cs",
+              "RelativeToolTip": "TextEditor\\Data\\Migrations\\20241123095308_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:53:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\appsettings.json",
+              "RelativeDocumentMoniker": "TextEditor\\appsettings.json",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\appsettings.json",
+              "RelativeToolTip": "TextEditor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T09:48:38.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TextEditor\\TextEditor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TextEditor\\TextEditor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TextEditor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:35:46.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
